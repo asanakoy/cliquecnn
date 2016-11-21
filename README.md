@@ -9,4 +9,5 @@ Based on our NIPS 2016 Paper: **"CliqueCNN: Deep Unsupervised Exemplar Learning"
 * All our pretrained models for Olympic Sports dataset can be downloaded from [here](https://hcicloud.iwr.uni-heidelberg.de/index.php/s/kRp6b454Dd0wnts)
 * Caffe's deploy file: [olympic_sports_retrieval/models/deploy.prototxt](olympic_sports_retrieval/models/deploy.prototxt)  
 * Evaluation script for Olympic Sports: [olympic_sports_retrieval/calculate_roc_auc.py](olympic_sports_retrieval/calculate_roc_auc.py)
-* Baseline HOG-LDA similarity matrices for Olympic Sports:  [similarities_hog_lda.tar.zip](tobedone) (12 Gb)
+* Baseline HOG-LDA similarity matrices for Olympic Sports:
+[similarities_hog_lda.tar.zip](http://compvis10.iwr.uni-heidelberg.de/share/cliquecnn/similarities_hog_lda.tar.zip) (11.5 Gb)
