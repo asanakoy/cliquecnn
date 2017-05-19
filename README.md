@@ -2,6 +2,8 @@
 
 Based on our NIPS 2016 Paper: **"CliqueCNN: Deep Unsupervised Exemplar Learning"** by Miguel A. Bautista* , Artsiom Sanakoyeu* , Ekaterina Sutter, Björn Ommer.
 
+https://asanakoy.github.io/cliquecnn/
+
 ---
 
 * The paper can be downloaded from https://arxiv.org/abs/1608.08792
