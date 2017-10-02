@@ -12,7 +12,7 @@ https://asanakoy.github.io/cliquecnn/
 * Caffe's deploy file: [olympic_sports_retrieval/models/deploy.prototxt](olympic_sports_retrieval/models/deploy.prototxt)  
 * Evaluation script for Olympic Sports: [olympic_sports_retrieval/calculate_roc_auc.py](olympic_sports_retrieval/calculate_roc_auc.py)
 * Baseline HOG-LDA similarity matrices for Olympic Sports:
-[similarities_hog_lda.tar.zip](http://compvis10.iwr.uni-heidelberg.de/share/cliquecnn/similarities_hog_lda.tar.zip) (11.5 Gb)
+[similarities_hog_lda.tar.gz](http://compvis10.iwr.uni-heidelberg.de/share/cliquecnn/similarities_hog_lda.tar.gz) (11.5 Gb)
 
 If you find this code or data useful for your research, please cite
 ```
