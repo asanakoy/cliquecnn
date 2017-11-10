@@ -8,6 +8,7 @@ https://asanakoy.github.io/cliquecnn/
 
 * The paper can be downloaded from https://arxiv.org/abs/1608.08792
 * Labels that we gathered for Olympic Sports can be found in [olympic_sports_retrieval/data](olympic_sports_retrieval/data)
+* Bounding boxes for the OlympicSports dataset [olympic_sports_retrieval/data/bboxes.tar.gz](olympic_sports_retrieval/data/bboxes.tar.gz)
 * All our pretrained models for Olympic Sports dataset can be downloaded from [here](https://hcicloud.iwr.uni-heidelberg.de/index.php/s/kRp6b454Dd0wnts)
 * Caffe's deploy file: [olympic_sports_retrieval/models/deploy.prototxt](olympic_sports_retrieval/models/deploy.prototxt)  
 * Evaluation script for Olympic Sports: [olympic_sports_retrieval/calculate_roc_auc.py](olympic_sports_retrieval/calculate_roc_auc.py)
